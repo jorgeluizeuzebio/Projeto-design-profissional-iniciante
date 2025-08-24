@@ -14,7 +14,7 @@ Este projeto consiste em uma calculadora simples que realiza operações matemá
 <li>Exibição de resultados após a realização de cada operação.
 
 # Como Funciona:
-<li>1 O usuário insere dois números e escolhe a operação desejada.
+<li>O usuário insere dois números e escolhe a operação desejada.
 <li>O calculo é realizado e o resultado é exibido da tela
 <li>A Calculadora também permite que o usuário limpe a tela, reiniciando o processo.
 
